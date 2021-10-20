@@ -1,0 +1,17 @@
+{
+    "name": "soufiane/2021.10.20_composer3",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "soufcod3",
+            "email": "soufwra@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
